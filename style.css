@@ -1,0 +1,31 @@
+/* To set font of the entire page to Calibri */
+body{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+}
+
+/* To align the heading in the centre of the page */
+h1 {
+    text-align: center;
+}
+
+/* To customize table border and text as well as table size and align it in the center */
+table {
+    border-collapse: collapse;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000;
+    width:50%;
+    margin: 0 25% 5rem 25%;
+}
+
+/* Format the links into an italic style */
+a {
+    font-style: italic;
+}
+
+/* To customize the table header */
+th {
+    font-weight: 10rem;
+    background-color: #000;
+    color: white;
+}
